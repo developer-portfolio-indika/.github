@@ -2,7 +2,7 @@
 
 ## 🤖 AI & MCP
 
-- [mcp-gnews](https://github.com/developer-portfolio-indika/ai-mcp-server-gnews))
+- [mcp-gnews](https://github.com/developer-portfolio-indika/ai-mcp-server-gnews)
 
 ## 🅰️ Angular
 
