@@ -2,9 +2,8 @@
 
 ## 🤖 AI & MCP
 
-- [mcp-sqlserver](https://github.com/my-org/mcp-sqlserver)
-- [mcp-filesystem](https://github.com/my-org/mcp-filesystem)
-- [mcp-rag](https://github.com/my-org/mcp-rag)
+- [mcp-gnews](https://github.com/developer-portfolio-indika/ai-mcp-server-gnews))
+
 
 ## 🅰️ Angular
 
