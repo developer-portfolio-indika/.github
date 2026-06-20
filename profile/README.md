@@ -4,7 +4,8 @@
 ## 🤖 AI & MCP
 
 - [mcp-gnews](https://github.com/developer-portfolio-indika/ai-mcp-server-gnews)
-
+- [mcp-malicious-server-demo](https://github.com/developer-portfolio-indika/ai-mcp-server-mal)
+ 
 ## 🅰️ Angular
 
 - [ng-admin](https://github.com/my-org/ng-admin)
